@@ -25,7 +25,7 @@ iter_obj = []
 
 
 #1
-for i in range(0, 52):
+for i in range(52):
     iter_obj.append(CardDeck(i))
 print(iter_obj)
 print('******' * 10)
